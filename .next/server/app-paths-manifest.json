@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/generate-blog/route": "app/api/generate-blog/route.js",
+  "/api/generate-image/route": "app/api/generate-image/route.js",
+  "/api/get-blogs/route": "app/api/get-blogs/route.js",
+  "/api/save-blog/route": "app/api/save-blog/route.js",
+  "/dashboard/create/page": "app/dashboard/create/page.js",
+  "/dashboard/edit/[id]/page": "app/dashboard/edit/[id]/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/page": "app/page.js",
+  "/sign-in/[[...sign-in]]/page": "app/sign-in/[[...sign-in]]/page.js",
+  "/sign-up/[[...sign-up]]/page": "app/sign-up/[[...sign-up]]/page.js"
+}
